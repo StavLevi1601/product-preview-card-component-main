@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&display=swap');
+
+.textGabrielleDesk {
+    font-family: 'Fraunces';
+    font-weight: 700;
+    font-size: 35px; 
+    color: #1C232B; 
+    letter-spacing: 1; 
+    line-height: 1.0; 
+}
+
+.textGabrielleMobile {
+  font-family: 'Fraunces';
+  font-weight: 500;
+  font-size: 30px; 
+  color: #1C232B; 
+  letter-spacing: 1; 
+  line-height: 1.0; 
+}
