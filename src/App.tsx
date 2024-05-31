@@ -10,7 +10,7 @@ export default function App() {
           <img
             src={imageProductDesktop}
             alt="product"
-            className="md:w-[300px] md:h-[480px] md:rounded-l-lg rounded-t-lg md:object-cover object-none w-[343px] h-[240px]"
+            className="ImageProduct md:w-[300px] md:h-[480px] object-cover h-[270px] w-[343.7px] rounded-xl"
           />
         </div>
         <div className="flex justify-start pt-[32px] pl-[31.5px] flex-col gap-[20px]">
